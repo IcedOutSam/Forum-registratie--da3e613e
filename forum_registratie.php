@@ -6,7 +6,7 @@
   </head>
   <body>
 
-    <form action="http://localhost/bit/PHP%20Web/Web%20uitgebreid/Forum-registratie--da3e613e/registratie_handler.php" method="post" class="form-example">
+    <form href="" action="registratie_handler.php" method="post">
   <div class="form-example">
     <label for="name">Enter your name: </label>
     <input type="text" name="name" id="name" required>
